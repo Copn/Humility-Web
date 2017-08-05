@@ -1,2 +1,0 @@
-# Humility-Web
-Humility website
